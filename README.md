@@ -2,7 +2,7 @@
 Code and Dataset for my bachelor thesis
 
 # Code
-The code contains the training process of several AI models for the task of multiclass genre classification. The whole dataset used for the training is also available here. Further details about the implementation can be found in the bachelor thesis.
+The code contains the training process of several AI models for the task of multiclass music genre classification. The whole dataset used for the training is also available here. Further details about the implementation can be found in the bachelor thesis.
 
 
 # Dataset
