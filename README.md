@@ -12,7 +12,7 @@ The dataset contains 13 acoustic features and the lyrics of 15,740 songs divided
 
 ## Feature Description
 
-### Genre:
+### *genre*:
 The dataset contains songs from the Hip-Hop, Jazz, Rock, Pop, Country, Metal, R&B, Indie, Electronic and Folk genres.
 
 ### *acousticnes*: 
