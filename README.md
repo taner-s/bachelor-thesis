@@ -32,5 +32,5 @@ A variable describing how energetic a song feels like. A few typical traits of e
 A variable predicting whether the song contains vocals or not. Values are between 0.0 and 1.0 with a value above 0.5 representing instrumental tracks with no vocals.
 
 ### *key*:
-A variable that predicts the key the song is in. The values are between -1 and 11. The standard pitch notation is used, which means that 0 = C, 1 = C sharp/ D flat, 2 = D, and so on according to the pattern. If the key cannot be classified, the value is -1.
+A variable that predicts the key the song is in. The values are between -1 and 11. The standard pitch notation is used, which means that 0 = C,   1 = C sharp/ D flat, 2 = D, and so on according to the pattern. If the key cannot be classified, the value is -1.
 
