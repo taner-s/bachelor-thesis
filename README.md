@@ -13,7 +13,7 @@ The dataset contains 13 acoustic features and the lyrics of 15,740 songs divided
 ## Feature Description
 
 ### Genre:
-The genres used in the dataset are the following: Hip-Hop, Jazz, Rock, Pop, Country, Metal, R&B, Indie, Electronic, Folk
+The dataset contains songs from the Hip-Hop, Jazz, Rock, Pop, Country, Metal, R&B, Indie, Electronic and Folk genres.
 
 ### *acousticnes*: 
 A confidence measure that represents whether the song is acoustic or not. The variable ranges between 0.0 to 1.0 with a high value describing a high confidence that the song is acoustic.
