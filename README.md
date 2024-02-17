@@ -1,6 +1,8 @@
 # bachelor-thesis
 Code and Dataset for my bachelor thesis
 
+# Code
+The code contains the training process of several AI models for the task of multiclass genre classification. The whole dataset used for the training is also available here. Further details about the implementation can be found in the bachelor thesis.
 
 
 # Dataset
@@ -61,3 +63,5 @@ A value from 0.0 to 1.0 representing how positive a song is perceived. A higher 
 
 ### *Lyrics*:
 The lyrics text corpus of a song
+
+
