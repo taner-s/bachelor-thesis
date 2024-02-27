@@ -64,7 +64,4 @@ An estimation of the time signature of a song. The values range from 3 to 7, whi
 ### *valence*:
 A value from 0.0 to 1.0 representing how positive a song is perceived. A higher value indicates a more positive sound, which can be described as happy, cheerful or euphoric. A lower valence value indicates more negative songs that can be connected with emotions like sadness, depression or angriness. 
 
-### *Lyrics*:
-The lyrics text corpus of a song
-
 
